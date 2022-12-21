@@ -1,6 +1,6 @@
 "use strict";
 
-//just to add little bir of js
+//just to add little bir of js i also have https://github.com/Ugurismail/decider.git and https://github.com/Ugurismail/iqtest.git ones.
 const items = [...document.querySelectorAll(".slide")];
 
 let options = {
